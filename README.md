@@ -1,2 +1,2 @@
 # project1
-clock using html, css, js
+Digital Clock using html, css, js
